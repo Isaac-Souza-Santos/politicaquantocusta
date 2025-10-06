@@ -15,11 +15,8 @@ Esta é a página de política de privacidade do aplicativo Quanto Custa, hosped
 - `quantocustalogo.png` - Logo do aplicativo
 - `.nojekyll` - Arquivo necessário para o GitHub Pages processar corretamente
 
-## Personalização
-
 Para personalizar a página, edite o arquivo `index.html`:
 
 - Altere as cores nas variáveis CSS
 - Modifique o conteúdo da política
 - Ajuste o layout conforme necessário
-
